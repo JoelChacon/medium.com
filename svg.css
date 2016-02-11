@@ -1,0 +1,42 @@
+* {
+	border:
+}
+.container {
+	height:65px;
+	width:1280px;
+	position:relative;
+}
+.reactTut {
+		float:left;
+	display: block;
+	padding: 5px;
+
+
+}
+.home {
+	height:45px;
+	width:100px;
+	padding-right:500px;
+	float:left;
+	display: block;
+
+}
+.topH3 {
+	float:left;
+	display: block;
+	margin: 0;
+	font-size: 16px;
+	padding-top: 3px;
+}
+.main {
+	padding: 0 350px;
+}
+p {
+	font-size: 20px;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
